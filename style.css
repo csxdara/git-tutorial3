@@ -1,3 +1,7 @@
+@import url("https://fonts/googleapis.com/css2?family=Kantumruy Pro");
 html{
     background-color: red;
+    font-family: 'Kantumruy Pro';
+    text-align: center;
+    margin-top: 10rem;
 }
